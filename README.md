@@ -37,10 +37,11 @@ I build embodied-AI systems that connect language-level reasoning to uncertain e
 
 ## Research and communication
 
+- Presented *LLM Chaining-Based Task Planning for GPSR Tasks* at [the 13th Intelligent Home Robotics Workshop](https://www.i-homerobotics.org/activity/iHR13), University of Tokyo, December 2025.
 - First author: *Evaluation of the Effectiveness of LLM Chaining for Long-Horizon Task Planning in General-Purpose Service Robots* — RSJ 2026.
 - First author: *Design and Evaluation of LLM Chaining-Based Task Planning for General Purpose Service Robots* — IEEE GCCE 2026.
 - Featured in CAPA magazine's Portuguese-language interview on AI and robotics for Brazilians in Japan.
 
 ## Connect
 
-[Portfolio](mailto:lucasmotabr@icloud.com) · [LinkedIn](https://www.linkedin.com/in/lucasmotabr) · [Team SOBITS](https://home.soka.ac.jp/~teamsobits/) · [Email](mailto:lucasmotabr@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/lucasmotabr) · [Team SOBITS](https://home.soka.ac.jp/~teamsobits/) · [Email](mailto:lucasmotabr@icloud.com)
