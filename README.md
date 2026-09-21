@@ -23,6 +23,8 @@ I build embodied-AI systems that connect language-level reasoning to uncertain e
 | **MCP robot-skill interface** | Wrapping existing ROS 2 robot skills as MCP servers so agent planners can invoke navigation, perception, and manipulation through one interface. In progress. | Hagiwara Lab |
 | **Production AI at dot.lab** | Build full-stack AI tools, from user flows and APIs to evaluation, billing, persistence, and recovery. | Client work is private and described in my portfolio. |
 | **Open-source ROS 2 packages (Team SOBITS)** | [yamnet_ros](https://github.com/TeamSOBITS/yamnet_ros) — 521-class real-time sound-event detection · [sam3_ros](https://github.com/TeamSOBITS/sam3_ros) — text-prompted SAM3 segmentation · [sobits_follower](https://github.com/TeamSOBITS/sobits_follower) — LiDAR + RGB-D person following · [sobit_pro](https://github.com/TeamSOBITS/sobit_pro) — C++ joint and pose control | Public ROS 2 packages |
+| **Smart Meeting Audio Assistant** | Integration owner: designed the typed `SystemSnapshot` contract and mock-data layer so teammates could build against a stable interface, then built both frontends, audio capture, Whisper transcription, and visualization. | [Repo](https://github.com/Lucasmotabr/smart-meeting-audio-assistant) — MIT, Python |
+| **AI Robot Book — Chapter 3** | Contributing to the English edition on speech recognition and synthesis, with ROS 2 action-based sample programs. | [Chapter 3 repository](https://github.com/yhagiwara/AI-Robot-Book-En-chapter3) |
 
 ## Skills
 
@@ -38,6 +40,7 @@ I build embodied-AI systems that connect language-level reasoning to uncertain e
 
 **Robotics:** ROS 2 · Nav2 · TF2 · SMACH · URDF/xacro · PCL · YOLO/SAM3 integration · LiDAR/RGB-D tracking  
 **AI and software:** LLM systems · evaluation · MCP · Whisper · DeepEval · FastAPI · React/Next.js · Hono/Bun · PostgreSQL/Supabase · Playwright
+
 **Training & models:** PyTorch (YOLO detection weights) · TensorFlow (YAMNet integration)
 
 ## Research and communication
